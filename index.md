@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# NS-Texture
 
-You can use the [editor on GitHub](https://github.com/newtoallofthis123/NS-Texture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NS-Texture is a texture pack for [MineClone2](https://content.minetest.net/packages/Wuzzy/mineclone2/), MineClone2 is a voxel games that is based and can be played on the [Minetest Engine](https://www.minetest.net/).
 
-### Markdown
+Minetest is a very good open source alternative to Minecraft and Mineclone2 is a attempt to make a almost flawless clone of Minecraft. The only con about Mineclone2 is that it's graphics and texture packs are not very good. So, I made a MineClone2 Texture pack from the official Minecraft Texture pack.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
 
-```markdown
-Syntax highlighted code block
+<!-- - Minetest ContentDb : [ContentDb]() -->
+- Direct Installation : [Releases](https://github.com/newtoallofthis123/NS-Texture/releases)
 
-# Header 1
-## Header 2
-### Header 3
+After the direct Installation, put the folder NS-Textures in the Mintest Textures Folder and enable the texture pack in content menu.
 
-- Bulleted
-- List
+## Gallery
 
-1. Numbered
-2. List
+![Image1](https://github.com/newtoallofthis123/NS-Texture/raw/main/minetest_42BsbAVsPS.png)
+![Image2](https://github.com/newtoallofthis123/NS-Texture/raw/main/minetest_DIYR9fBHsB.png)
 
-**Bold** and _Italic_ and `Code` text
+## Support
 
-[Link](url) and ![Image](src)
-```
+To Support Me, drop a star on github or fork my project and be sure to check out my other projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Fork
 
-### Jekyll Themes
+NS-Texture is registered under the [MIT]() License, hence you are free to use it as you like and if you think you can improve it in any way, fork the project, improved it and send a pull request, if I like it, I will invite you into the repository
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newtoallofthis123/NS-Texture/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+     NoobScience 2021
