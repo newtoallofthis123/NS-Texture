@@ -2,7 +2,7 @@
 
 ## Introduction
 
-NS-Texture is a texture pack for [MineClone2](https://content.minetest.net/packages/Wuzzy/mineclone2/), MineClone2 is a voxel games that is based and can be played on the [Minetest Engine](https://www.minetest.net/).
+NS-Texture is a texture pack for [MineClone2](https://content.minetest.net/packages/Wuzzy/mineclone2/), [MineClone5](https://content.minetest.net/packages/kay27/mineclone5/) and  MineClone2 and MineClone5 are voxel games that are based and can be played on the [Minetest Engine](https://www.minetest.net/).
 
 Minetest is a very good open source alternative to Minecraft and Mineclone2 is a attempt to make a almost flawless clone of Minecraft. The only con about Mineclone2 is that it's graphics and texture packs are not very good. So, I made a MineClone2 Texture pack from the official Minecraft Texture pack.
 
