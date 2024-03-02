@@ -11,7 +11,9 @@ Minetest is a very good open source alternative to Minecraft and Mineclone2 is a
 <!-- - Minetest ContentDb : [ContentDb]() -->
 - Direct Installation : [Releases](https://github.com/newtoallofthis123/NS-Texture/releases)
 
-After the direct Installation, put the folder NS-Textures in the Mintest Textures Folder and enable the texture pack in content menu.
+After dowloading the direct Installation zip file, extract the folder NS-Textures in the Mintest Textures Folder and enable the texture pack in content menu.
+
+If you're using flatpak on Linux, the Texture folder might be located in ```/var/lib/flatpak/app/net.minetest.Minetest/current/active/files/share/minetest/textures/```.
 
 ## Gallery
 
